@@ -1,16 +1,15 @@
-## Hi there 👋
+Cyber Risk • Software Integrity • Modern Systems
 
-<!--
-**FelipeYorrisoon/FelipeYorrisoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on understanding how trust, identity and risk propagate across APIs, cloud environments and modern software architectures.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Technical Due Diligence
+* API & Cloud Security
+* Software Supply Chain
+* System Trust Boundaries
+* Operational Risk
+* Malware Analysis
+* Modern Infrastructure
+
+Building a deep understanding of how technology impacts operational resilience and investment risk.
