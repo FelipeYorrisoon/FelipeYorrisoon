@@ -2,107 +2,75 @@
 
 # Felipe Yorrison
 
-**Malware Analysis · Reverse Engineering · Digital Forensics**
+**C/C++ Developer | Security & Firmware**
 
-Binary analysis, digital forensics, and threat research. I focus on understanding the behavior and intent behind code, reconstructing execution chains, correlating digital evidence, and documenting technical findings with enough precision to support investigations.
+*From code to hardware, building the future.*
 
----
-
-## 🧪 Analyses
-
-I document technical analyses of public malware samples, combining static and dynamic analysis with behavioral reconstruction, IOC extraction, MITRE ATT&CK mapping, and YARA development.
-
-📂 [`malware-analysis-writeups`](https://github.com/FelipeYorrisoon/malware-analysis-writeups) — technical malware analysis write-ups
-📂 [`yara-rules`](https://github.com/FelipeYorrisoon/yara-rules) — detection rules derived from malware research
+I work where code meets hardware: modern C/C++, firmware and embedded systems, and the security of the devices they run on. My foundation is reverse engineering and malware analysis, which I use to understand what code really does at the binary level and how it can be abused.
 
 ---
 
-## 🔬 Projects
+## 🎯 Focus
+
+- **C/C++ development:** modern C++, low-level code, systems programming
+- **Firmware & embedded:** microcontrollers, RTOS, Embedded Linux *(growing focus, see Roadmap)*
+- **Security:** reverse engineering, binary and firmware analysis, malware analysis
+
+I spent years as a Java back-end developer, so I also think in terms of systems, interfaces and data flow, from the device up to the service it talks to.
+
+---
+
+## 🔬 Open-source projects
 
 ### Behavior Reconstruction Engine
 
-An open-source engine for explainable behavioral reconstruction from heterogeneous security events.
-
-The project explores how fragmented events can be correlated to reconstruct what happened during an execution chain and make the resulting analysis easier to understand.
+An open-source engine for explainable behavioral reconstruction from heterogeneous security events. It correlates fragmented events to rebuild what happened during an execution chain, with conclusions you can trace back to evidence.
 
 📂 [`behavior-reconstruction-engine`](https://github.com/FelipeYorrisoon/behavior-reconstruction-engine)
 
 ### TraceGap
 
-An open-source framework for identifying, explaining, and prioritizing potential gaps in malware analysis.
-
-The goal is to make analysis more systematic by identifying where evidence is missing or where additional investigation may be necessary.
+An open-source framework for identifying, explaining, and prioritizing potential gaps in malware analysis, showing where evidence is missing or where further investigation is needed.
 
 📂 [`TraceGap`](https://github.com/FelipeYorrisoon/TraceGap)
 
 ---
 
-## 🔍 What I Work With
+## 🧪 Security research
 
-My work is centered around malware analysis and reverse engineering, with a growing focus on digital forensics and investigation.
+Technical analyses of public malware samples, combining static and dynamic analysis, behavioral reconstruction, IOC extraction, MITRE ATT&CK mapping, and YARA development.
 
-I work with binary behavior, Windows internals, execution chains, process and DLL activity, injection techniques, obfuscation, C2 communication, and the reconstruction of events from technical evidence.
-
-On the forensic side, I am developing experience with Windows artifacts, memory analysis, timeline reconstruction, evidence correlation, and incident investigation.
-
-The common thread between these areas is understanding **what happened, how it happened, and what evidence supports that conclusion.**
+📂 [`malware-analysis-writeups`](https://github.com/FelipeYorrisoon/malware-analysis-writeups): technical malware analysis write-ups
+📂 [`yara-rules`](https://github.com/FelipeYorrisoon/yara-rules): detection rules derived from malware research
 
 ---
 
 ## 🛠️ Toolkit
 
-Ghidra · x64dbg · REMnux · FLARE VM · Volatility
-
-C/C++ · Python · Java · Assembly (x86/x64)
-
----
-
-## 🧭 Current Direction
-
-My current development path is moving from low-level technical analysis toward broader digital investigation:
-
-**Malware Analysis → Reverse Engineering → Digital Forensics → DFIR → Cybercrime Investigation**
-
-I am building projects that allow me to practice this progression through real technical problems rather than only theoretical study.
+**Languages:** C/C++ · Assembly (x86/x64) · Python · Java
+**Reverse engineering & analysis:** Ghidra · x64dbg · Volatility · REMnux · FLARE VM
+**Environment:** Linux (Ubuntu) · Git
 
 ---
 
-## 📁 Investigation Case Studies
+## 🚧 Roadmap: firmware & embedded security
 
-I am also developing fictional investigation scenarios to practice the process of turning technical evidence into professional investigative reports.
+Projects I'm building to connect firmware, connectivity and security. They will be added here as they become ready to document publicly:
 
-These cases will combine malware analysis, digital forensics, network evidence, threat intelligence, and evidence correlation where appropriate.
-
-The objective is to develop a consistent workflow from **evidence collection to technical findings and final reporting**.
-
----
-
-## 🚧 In Development
-
-Some of the projects I am working toward include a Windows forensic timeline, a memory forensics lab, a digital evidence correlation engine, and complete fictional cybercrime investigation case studies.
-
-These projects will be added as they become sufficiently developed to document publicly.
+- An embedded device project in C/C++ (microcontroller + RTOS) with secure communication to a backend service
+- Signed firmware updates (OTA) and basic secure-boot concepts
+- Firmware analysis write-ups, applying reverse engineering to embedded binaries
 
 ---
 
-## 📌 Other Repository
+## 📌 Other repository
 
-[`terminal-hacker-portfolio`](https://github.com/FelipeYorrisoon/terminal-hacker-portfolio) — interactive terminal-style portfolio built with TypeScript.
-
----
-
-## 🎯 Long-Term Direction
-
-I want to build the technical ability to investigate real-world cyber threats through malware analysis, reverse engineering, digital forensics, and cybercrime investigation.
-
-Long term, I want to apply these capabilities to investigations where technology can help reconstruct events, preserve evidence, identify threats, and contribute to protecting people online.
+[`terminal-hacker-portfolio`](https://github.com/FelipeYorrisoon/terminal-hacker-portfolio): interactive terminal-style portfolio built with TypeScript.
 
 ---
 
 ## 📫 Contact
 
-Open to conversations with security teams, forensic investigators, researchers, and organizations interested in malware analysis, digital forensics, reverse engineering, and threat research.
+Looking for junior roles in embedded/firmware development, security engineering, and malware analysis or CTI. Open to remote work.
 
-[LinkedIn](https://www.linkedin.com/in/felipe-yorrison-29b7b7406/) · [X/Twitter](https://x.com/FelipYorrison) · [Instagram](https://www.instagram.com/felipyorrison/) · [Website](https://felipeyorrison.carrd.co/)
-
-
+[LinkedIn](https://www.linkedin.com/in/felipe-yorrison-29b7b7406/) · [X/Twitter](https://x.com/FelipYorrison) · [Website](https://felipeyorrison.carrd.co/) · Harrisoonn@proton.me
