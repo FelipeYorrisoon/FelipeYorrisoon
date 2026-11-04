@@ -1,76 +1,142 @@
-<img width="900" height="200" alt="banner" src="https://github.com/user-attachments/assets/5ee51685-20b1-45c6-832c-ffc9fd09c7c5" />
+ <img width="900" height="200" alt="Felipe Yorrison — Developer, Security & Firmware" src="https://github.com/user-attachments/assets/5ee51685-20b1-45c6-832c-ffc9fd09c7c5" />
 
 # Felipe Yorrison
 
-**C/C++ Developer | Security & Firmware**
+**C/C++ Developer | Systems Programming | Security & Firmware**
 
 *From code to hardware, building the future.*
 
-I work where code meets hardware: modern C/C++, firmware and embedded systems, and the security of the devices they run on. My foundation is reverse engineering and malware analysis, which I use to understand what code really does at the binary level and how it can be abused.
+I am a developer focused on low-level software, computer systems, firmware and embedded security.
+
+My interests lie at the intersection of software and hardware — understanding how operating systems, processors, memory, firmware and security mechanisms work together.
+
+I work primarily with C/C++ and Linux, developing practical projects while deepening my understanding of system internals, embedded architectures and binary-level security.
 
 ---
 
-## 🎯 Focus
+## 🎯 Technical Focus
 
-- **C/C++ development:** modern C++, low-level code, systems programming
-- **Firmware & embedded:** microcontrollers, RTOS, Embedded Linux *(growing focus, see Roadmap)*
-- **Security:** reverse engineering, binary and firmware analysis, malware analysis
+**Systems Programming**
+- C and modern C++
+- Linux internals and system calls
+- Processes, memory and operating system interfaces
+- Debugging and low-level development
 
-I spent years as a Java back-end developer, so I also think in terms of systems, interfaces and data flow, from the device up to the service it talks to.
+**Firmware & Embedded Systems**
+- Microcontrollers and embedded architectures
+- Embedded C/C++
+- GPIO, UART, SPI and I²C
+- RTOS and Embedded Linux
+- Boot firmware and secure boot concepts
+
+**Security Engineering**
+- Reverse engineering
+- Malware and binary analysis
+- Firmware security
+- Vulnerability research
+- Security-oriented systems development
 
 ---
 
-## 🔬 Open-source projects
+## 🔬 Open-Source Projects
+
+### Linux System Explorer
+
+A C-based project exploring Linux system interfaces, operating system information and low-level system programming.
+
+**Current focus:** understanding system calls, Linux interfaces, structures and modular C architecture.
+
+[View Repository](https://github.com/FelipeYorrisoon/linux-system-explorer)
 
 ### Behavior Reconstruction Engine
 
-An open-source engine for explainable behavioral reconstruction from heterogeneous security events. It correlates fragmented events to rebuild what happened during an execution chain, with conclusions you can trace back to evidence.
+An open-source engine for explainable behavioral reconstruction from heterogeneous security events. It correlates fragmented events to reconstruct execution chains and connect conclusions to supporting evidence.
 
-📂 [`behavior-reconstruction-engine`](https://github.com/FelipeYorrisoon/behavior-reconstruction-engine)
+[View Repository](https://github.com/FelipeYorrisoon/behavior-reconstruction-engine)
 
 ### TraceGap
 
-An open-source framework for identifying, explaining, and prioritizing potential gaps in malware analysis, showing where evidence is missing or where further investigation is needed.
+An open-source framework designed to identify, explain and prioritize potential gaps in malware analysis, highlighting missing evidence and areas requiring further investigation.
 
-📂 [`TraceGap`](https://github.com/FelipeYorrisoon/TraceGap)
-
----
-
-## 🧪 Security research
-
-Technical analyses of public malware samples, combining static and dynamic analysis, behavioral reconstruction, IOC extraction, MITRE ATT&CK mapping, and YARA development.
-
-📂 [`malware-analysis-writeups`](https://github.com/FelipeYorrisoon/malware-analysis-writeups): technical malware analysis write-ups
-📂 [`yara-rules`](https://github.com/FelipeYorrisoon/yara-rules): detection rules derived from malware research
+[View Repository](https://github.com/FelipeYorrisoon/TraceGap)
 
 ---
 
-## 🛠️ Toolkit
+## 🧪 Security Research
 
-**Languages:** C/C++ · Assembly (x86/x64) · Python · Java
-**Reverse engineering & analysis:** Ghidra · x64dbg · Volatility · REMnux · FLARE VM
-**Environment:** Linux (Ubuntu) · Git
+Research focused on understanding software behavior at the binary and execution levels.
+
+Areas of investigation:
+
+- Static and dynamic malware analysis
+- Reverse engineering
+- Behavioral analysis
+- IOC extraction
+- MITRE ATT&CK mapping
+- YARA detection engineering
+- Firmware binary analysis
+
+**Research repositories:**
+
+- [malware-analysis-writeups](https://github.com/FelipeYorrisoon/malware-analysis-writeups) — Technical malware analysis reports.
+- [yara-rules](https://github.com/FelipeYorrisoon/yara-rules) — Detection rules developed through malware research.
 
 ---
 
-## 🚧 Roadmap: firmware & embedded security
+## 🛠️ Technical Toolkit
 
-Projects I'm building to connect firmware, connectivity and security. They will be added here as they become ready to document publicly:
+**Languages**
 
-- An embedded device project in C/C++ (microcontroller + RTOS) with secure communication to a backend service
-- Signed firmware updates (OTA) and basic secure-boot concepts
-- Firmware analysis write-ups, applying reverse engineering to embedded binaries
+C · C++ · Python · Assembly (x86/x64) · Java
+
+**Systems & Development**
+
+Linux (Ubuntu) · GCC · GDB · Make · Git
+
+**Reverse Engineering & Security**
+
+Ghidra · x64dbg · Volatility · REMnux · FLARE VM
+
+**Embedded & Hardware**
+
+ESP32 · GPIO · UART · SPI · I²C · Microcontroller architectures
 
 ---
 
-## 📌 Other repository
+## 🚧 Current Learning & Development
 
-[`terminal-hacker-portfolio`](https://github.com/FelipeYorrisoon/terminal-hacker-portfolio): interactive terminal-style portfolio built with TypeScript.
+Deepening my knowledge of the software-to-hardware stack through practical projects.
+
+| Area | Technical direction |
+|---|---|
+| Systems Programming | Linux internals, system calls, memory and processes |
+| Computer Architecture | CPU architecture, memory hierarchy and SoC fundamentals |
+| Firmware Engineering | Embedded C/C++, microcontrollers and RTOS |
+| Security Firmware | Secure boot, firmware integrity and signed OTA updates |
+| Reverse Engineering | Binary analysis and firmware investigation |
+
+---
+
+## 📌 Other Project
+
+[terminal-hacker-portfolio](https://github.com/FelipeYorrisoon/terminal-hacker-portfolio) — Interactive terminal-style portfolio built with TypeScript.
 
 ---
 
 ## 📫 Contact
 
-Looking for junior roles in embedded/firmware development, security engineering, and malware analysis or CTI. Open to remote work.
+Open to junior opportunities in:
 
-[LinkedIn](https://www.linkedin.com/in/felipe-yorrison-29b7b7406/) · [X/Twitter](https://x.com/FelipYorrison) · [Website](https://felipeyorrison.carrd.co/) · Harrisoonn@proton.me
+- C/C++ Software Development
+- Systems Programming
+- Embedded Software & Firmware Engineering
+- Security Engineering
+- Malware Analysis & Reverse Engineering
+
+Interested in remote opportunities and international engineering environments.
+
+**Connect with me:**
+
+[LinkedIn](https://www.linkedin.com/in/felipe-yorrison-29b7b7406/) · [X / Twitter](https://x.com/FelipYorrison) · [Website](https://felipeyorrison.carrd.co/)
+
+**Email:** Harrisoonn@proton.me
